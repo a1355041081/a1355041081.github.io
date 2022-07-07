@@ -4,6 +4,38 @@
   
     
     <entry>
+      <title>PS学习二：工具1的应用</title>
+      <link href="/2022/07/07/S%E5%AD%A6%E4%B9%A0%E4%BA%8C%EF%BC%9A%E5%B7%A5%E5%85%B71%E7%9A%84%E5%BA%94%E7%94%A8/"/>
+      <url>/2022/07/07/S%E5%AD%A6%E4%B9%A0%E4%BA%8C%EF%BC%9A%E5%B7%A5%E5%85%B71%E7%9A%84%E5%BA%94%E7%94%A8/</url>
+      
+        <content type="html"><![CDATA[<hr><p>本节主要介绍图层的概念及相关操作<br>分为两个内容：  </p><ol><li>一是概念及操作  </li><li>二是图层工具的实战练习<br><a href="https://iconpark.oceanengine.com/home">https://iconpark.oceanengine.com/home</a><br>花瓣网</li></ol><hr><span id="more"></span><h4 id="图层的概念及其操作"><a href="#图层的概念及其操作" class="headerlink" title="图层的概念及其操作"></a>图层的概念及其操作</h4><p><img src="/%5Cimages%5Cpasted-22.png" alt="upload successful"></p><h5 id="图层的概念"><a href="#图层的概念" class="headerlink" title="图层的概念"></a>图层的概念</h5><p>图层可以认为是一块画布板子，多图层的顺序关系代表画布的上下关系，它们之间有一种遮罩关系。</p><h5 id="智能对象和栅格化对象"><a href="#智能对象和栅格化对象" class="headerlink" title="智能对象和栅格化对象"></a>智能对象和栅格化对象</h5><p>智能对象保存图片的特征信息，放大缩小可以恢复图层内容。<br>栅格化对象放大缩小改变图层的清晰度。  </p><p>智能对象（形状图层、文字图层、导入的图片图片）：都无法直接编辑图层信息</p><p>智能对象：在图层icon的右下角有文件样式的标志<br><img src="/%5Cimages%5Cpasted-24.png" alt="upload successful"><br>形状图层：图层icon右下角有形状样式的标志<br><img src="/%5Cimages%5Cpasted-23.png" alt="upload successful"></p><h6 id="文字图层的变化"><a href="#文字图层的变化" class="headerlink" title="文字图层的变化"></a>文字图层的变化</h6><p>在文字图层右键，选择转换为形状图层，点击直接选择工具可以直接对文字转换的形状图层做变换</p><h6 id="蒙版工具"><a href="#蒙版工具" class="headerlink" title="蒙版工具"></a>蒙版工具</h6><p>智能对象不能使用橡皮擦拭、更改，那么我们怎么在不改变智能对象图层属性的情况下完成对图层的擦拭一系列操作呢？<br>答案是：使用蒙版<br>操作步骤：</p><ol><li>选择智能对象图层，点击图层界面下方添加蒙版按钮，给相应的图层增加蒙版。</li><li>选择画笔工具，对增加了蒙版的图层进行操作，例如选择纯黑色画笔是对当前图层操作的部分进行遮光，此时会显露该蒙版以下画布内容（图层蒙版）</li><li>剪切蒙版的使用<ul><li>在蒙版图层与蒙版下方的图层之间按住AIT并点击鼠标左键，创建剪切蒙版，此时蒙版图层会剪切与其下方图层内容不重叠的部分，只保留下方 图层内容部分。</li></ul></li></ol><p><img src="/%5Cimages%5Cpasted-25.png" alt="upload successful"></p><h6 id="建组"><a href="#建组" class="headerlink" title="建组"></a>建组</h6><p>给多个图层建组操作，按住shift选择多个图层 然后 ctri+g 进行建组</p><h6 id="图层混合选项"><a href="#图层混合选项" class="headerlink" title="图层混合选项"></a>图层混合选项</h6><p>内阴影：类似镂空效果<br>斜面和浮雕：类似凸起效果</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>PS学习一：相关概念介绍</title>
+      <link href="/2022/07/07/%E8%87%B32022-7-7-PS%E5%AD%A6%E4%B9%A0%E5%86%85%E5%AE%B9/"/>
+      <url>/2022/07/07/%E8%87%B32022-7-7-PS%E5%AD%A6%E4%B9%A0%E5%86%85%E5%AE%B9/</url>
+      
+        <content type="html"><![CDATA[<hr><p>PS学习内容目录：  </p><ol><li>PS软件中相关概念介绍  </li><li>PS软件中各种工具的使用及实战练习</li></ol><hr><span id="more"></span><h3 id="PS软件中的概念介绍"><a href="#PS软件中的概念介绍" class="headerlink" title="PS软件中的概念介绍"></a>PS软件中的概念介绍</h3><h4 id="数码图像的基础概念"><a href="#数码图像的基础概念" class="headerlink" title="数码图像的基础概念"></a>数码图像的基础概念</h4><h5 id="位图和矢量图"><a href="#位图和矢量图" class="headerlink" title="位图和矢量图"></a>位图和矢量图</h5><p><img src="/%5Cimages%5Cpasted-14.png" alt="upload successful"></p><h5 id="像素和分辨率"><a href="#像素和分辨率" class="headerlink" title="像素和分辨率"></a>像素和分辨率</h5><p><img src="/%5Cimages%5Cpasted-15.png" alt="upload successful"></p><h5 id="图片文件格式"><a href="#图片文件格式" class="headerlink" title="图片文件格式"></a>图片文件格式</h5><p><img src="/%5Cimages%5Cpasted-16.png" alt="upload successful"></p><p><img src="/%5Cimages%5Cpasted-17.png" alt="upload successful"></p><h5 id="色彩模式"><a href="#色彩模式" class="headerlink" title="色彩模式"></a>色彩模式</h5><p><img src="/%5Cimages%5Cpasted-18.png" alt="upload successful"></p><p><img src="/%5Cimages%5Cpasted-20.png" alt="upload successful"><br>切换色彩模式</p><p><img src="/%5Cimages%5Cpasted-19.png" alt="upload successful"><br>其他色彩模式（不太常用）</p><p><img src="/%5Cimages%5Cpasted-21.png" alt="upload successful"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> PS学习 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>2022.7.6 待完成事项</title>
       <link href="/2022/07/06/022-7-6-%E5%BE%85%E5%AE%8C%E6%88%90%E4%BA%8B%E9%A1%B9/"/>
       <url>/2022/07/06/022-7-6-%E5%BE%85%E5%AE%8C%E6%88%90%E4%BA%8B%E9%A1%B9/</url>
