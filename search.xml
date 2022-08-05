@@ -4,11 +4,24 @@
   
     
     <entry>
+      <title>nginx</title>
+      <link href="/2022/08/03/ginx/"/>
+      <url>/2022/08/03/ginx/</url>
+      
+        <content type="html"><![CDATA[<p><a href="https://blog.csdn.net/zxd1435513775/article/details/102508463">https://blog.csdn.net/zxd1435513775/article/details/102508463</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>关于王乐宁痛经症状缓解的综合研究</title>
       <link href="/2022/07/24/%E4%BA%8E%E7%8E%8B%E4%B9%90%E5%AE%81%E5%A7%A8%E5%A6%88%E7%97%9B%E7%BB%8F%E7%97%87%E7%8A%B6%E7%BC%93%E8%A7%A3%E7%9A%84%E7%BB%BC%E5%90%88/"/>
       <url>/2022/07/24/%E4%BA%8E%E7%8E%8B%E4%B9%90%E5%AE%81%E5%A7%A8%E5%A6%88%E7%97%9B%E7%BB%8F%E7%97%87%E7%8A%B6%E7%BC%93%E8%A7%A3%E7%9A%84%E7%BB%BC%E5%90%88/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<blockquote class="blockquote-center">            <i class="fa fa-quote-left"></i>            <p>短期计划： 30天</p><p>中期计划： 90天</p><p>长期计划： 直到完全好了~</p>            <i class="fa fa-quote-right"></i>          </blockquote><span id="more"></span>]]></content>
       
       
       
@@ -124,7 +137,7 @@
       <link href="/2022/07/03/%E4%B8%80%E6%AD%A5%E5%AD%A6%E4%B9%A0%E5%86%85%E5%AE%B9/"/>
       <url>/2022/07/03/%E4%B8%80%E6%AD%A5%E5%AD%A6%E4%B9%A0%E5%86%85%E5%AE%B9/</url>
       
-        <content type="html"><![CDATA[<hr><p>微服务框架spring cloud学习：<br><a href="https://www.fangzhipeng.com/spring-cloud.html">学习链接</a><br>学习路线：nacos、spring cloud gateway、sentinel熔断器、spring cloud sleuth+zipkin实现链路追踪<br><a href="https://github.com/spring-guides/gs-gateway">github . gateway相关官方文档</a><br><a href="https://spring.io/projects/spring-cloud">Spring相关官方文档</a><br><a href="https://blog.csdn.net/qq_42082701/article/details/100983913/">一片比较详细的微服务搭建教程</a></p><p>设计模式的学习：<br><a href="https://www.fangzhipeng.com/javainterview/2021/05/26/fc428c7.html">学习链接</a></p><p>TCP、UDP、Socket、http网络编程学习：<br><a href="https://www.fangzhipeng.com/javainterview/2021/05/22/29a23de.html">学习链接</a></p>]]></content>
+        <content type="html"><![CDATA[<hr><p>微服务框架spring cloud学习：<br><a href="https://www.fangzhipeng.com/spring-cloud.html">学习链接</a><br>学习路线：nacos、spring cloud gateway、sentinel熔断器、spring cloud sleuth+zipkin实现链路追踪<br><a href="https://github.com/spring-guides/gs-gateway">github . gateway相关官方文档</a><br><a href="https://spring.io/projects/spring-cloud">Spring相关官方文档</a><br><a href="https://blog.csdn.net/qq_42082701/article/details/100983913/">一篇比较详细的微服务搭建教程</a><br><a href="https://my.oschina.net/u/5110260/blog/5054452">微服务各组件原理学习</a></p><p>设计模式的学习：<br><a href="https://www.fangzhipeng.com/javainterview/2021/05/26/fc428c7.html">学习链接</a></p><p>TCP、UDP、Socket、http网络编程学习：<br><a href="https://www.fangzhipeng.com/javainterview/2021/05/22/29a23de.html">学习链接</a></p>]]></content>
       
       
       
