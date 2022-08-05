@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>2022.8.5 待完成事项</title>
+      <link href="/2022/08/05/022-8-5-%E5%BE%85%E5%AE%8C%E6%88%90%E4%BA%8B%E9%A1%B9/"/>
+      <url>/2022/08/05/022-8-5-%E5%BE%85%E5%AE%8C%E6%88%90%E4%BA%8B%E9%A1%B9/</url>
+      
+        <content type="html"><![CDATA[<h4 id="微服务框架Spring-cloud-网关-服务通信"><a href="#微服务框架Spring-cloud-网关-服务通信" class="headerlink" title="微服务框架Spring cloud 网关+服务通信"></a>微服务框架Spring cloud 网关+服务通信</h4><ul><li>完成时间：2022.8.7</li><li>提交时间： 2022.8.7汇报</li><li>备注：将网关作用及官方文档、服务的两种通信方式做总结写在教程中</li></ul><span id="more"></span><h4 id="DEA物流绩效评价原型系统"><a href="#DEA物流绩效评价原型系统" class="headerlink" title="DEA物流绩效评价原型系统"></a>DEA物流绩效评价原型系统</h4><ul><li>完成时间：报道以前</li><li>提交时间： 未知</li><li>备注：主要写需求分析和系统设计，原型系统可以完成单点登录，以及一套微服务的搭建  <h4 id="专利文章"><a href="#专利文章" class="headerlink" title="专利文章"></a>专利文章</h4></li><li>完成时间：暂无</li><li>提交时间： 未知</li><li>备注：需要与师姐沟通，知识度量的内容，如何与专利文章的方法结合将知识定量的衡量然后用计算机跑模型</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 待完成事项 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>nginx</title>
       <link href="/2022/08/03/ginx/"/>
       <url>/2022/08/03/ginx/</url>
